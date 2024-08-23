@@ -1,7 +1,6 @@
 import React from 'react';
 import './Header.css';
 
-// Import images (non-SVG images)
 import icon1 from './images/Vector.png';
 import image1 from './images/image.png';
 import image2 from './images/Vector1.png';

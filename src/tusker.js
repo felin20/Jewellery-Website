@@ -1,6 +1,6 @@
 import React from 'react';
 import './tusker.css';
-import productImage from './images/ad1.png'; // Update with the correct path to the image
+import productImage from './images/ad1.png'; 
 import share from './images/share.png';
 import arrow1 from './images/arrow1.png';
 

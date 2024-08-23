@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
 
 
-/* src/components/OurStory.css */
 .our-story-container {
     width: 340px;
     height: 660px;
-    background-color: white; /* Background color */
+    background-color: white; 
     position:absolute;
     top: 4370px;
     left: 10px;

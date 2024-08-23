@@ -10,7 +10,7 @@
   position: absolute;
   top: 5465px;
   left: 0px;
-  transition: height 0.3s ease; /* Smooth transition for height changes */
+  transition: height 0.3s ease; 
 }
 .footer-section {
   width: 293px;

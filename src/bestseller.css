@@ -3,9 +3,7 @@
 
 .best-seller-container {
   position: absolute;
-  top: 806px; /* Adjust this value based on where you want "Best Seller" text */
-  left: 96px;
-  width: 155px;
+  top: 806px; 
   height: 900px;
   text-align: center;
 }
@@ -29,7 +27,7 @@
 
 .best-seller-section {
   position: relative;
-  top: 99px; /* Adjust this value based on where you want the image and product details */
+  top: 99px; 
   right: 0px;
 }
 .best-seller-image {

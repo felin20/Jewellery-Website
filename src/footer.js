@@ -19,7 +19,7 @@ const Footer = () => {
 
   return (
     <div className="footer-container">
-      {/* Useful Links Section */}
+      
       <div className="footer-section footer-section-useful">
         <p className="text9">Useful Links</p>
         <button
@@ -37,7 +37,7 @@ const Footer = () => {
         </div>
       )}
 
-      {/* Information Section */}
+      
       <div className="footer-section footer-section-info">
         <p className="text9">Information</p>
         <button
@@ -55,7 +55,7 @@ const Footer = () => {
         </div>
       )}
 
-      {/* Contact Us Section */}
+    
       <div className="footer-section footer-section-contact">
         <p className="text9">Contact Us</p>
         <button
@@ -73,7 +73,7 @@ const Footer = () => {
         </div>
       )}
 <div className='container100'>
-      {/* Other Footer Content */}
+      
       <p className='text11'>Follow Us On</p>
       <div className='container71'>
         <img src={face} alt="Facebook" className="image6" />

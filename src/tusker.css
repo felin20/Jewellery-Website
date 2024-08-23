@@ -172,7 +172,7 @@
   width: 155px;
   height: 53px;
   color: black;
-  background-color: #FDF1F1; /* Same as input container */
+  background-color: #FDF1F1; 
 }
 
 .quantity input {
@@ -183,14 +183,14 @@
   font-size: 25px;
   color: black;
   border: 1px solid #BDAFAF;
-  background-color: white; /* Match container background */
+  background-color: white; 
   outline: none;
 }
 
 .quantity button {
   width: 30px;
   height: 100%;
-  background-color: white; /* Match container background */
+  background-color: white; 
   border: none;
   font-size: 20px;
   color: #BDAFAF;

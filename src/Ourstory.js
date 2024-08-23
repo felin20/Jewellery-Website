@@ -1,6 +1,5 @@
-// src/components/OurStory.js
 import React from 'react';
-import './Ourstory.css'; // Ensure this file is created for styling
+import './Ourstory.css'; 
 import image5 from './images/image5.png';
 function OurStory() {
   return (

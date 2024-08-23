@@ -1,4 +1,3 @@
-// CustomerTestimonials.js
 import React from 'react';
 import './testimonials.css';
 

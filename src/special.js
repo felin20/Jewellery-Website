@@ -1,6 +1,6 @@
 import React from 'react';
 import './special.css';
-import offerImage from './images/offer.png'; // Update with the correct path to the image
+import offerImage from './images/offer.png'; 
 
 function SpecialOffer() {
   return (

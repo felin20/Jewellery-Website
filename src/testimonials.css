@@ -1,4 +1,3 @@
-/* CustomerTestimonials.css */
 .customer-testimonials-container {
     position: absolute;
     top: 5120px;
@@ -14,7 +13,7 @@
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     position: absolute;
-    top: -70px; /* 5161px - 5217px = -56px */
+    top: -70px;
     left: 27px;
   }
   

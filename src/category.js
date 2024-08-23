@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './category.css';  // Assuming you have a CSS file for styling
+import './category.css';  
 import necklace from './images/necklace.png';
 import haaram from './images/haaram.png';
 import earrings from './images/earrings.png';
