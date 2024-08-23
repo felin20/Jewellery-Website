@@ -39,7 +39,31 @@
   top: -45px;
   right: 76px;
 }
+.sale{
+  width: 50px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  z-index: 800;
+  font-size: 13px;
+  font-weight: 200;
+  font-family: 'Inter',sans-serif;
+}
+.soldout{
+  width: 77px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  z-index: 800;
+  font-size: 13px;
+  font-weight: 200;
+  font-family: 'Inter',sans-serif;
+  position: relative;
+ 
 
+}
 .best-seller-info {
   width: 145px;
   height: 61px;
@@ -184,3 +208,4 @@
 .container1:hover{
 transform: scale(1.2);
 }
+

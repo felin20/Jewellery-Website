@@ -7,6 +7,7 @@ function BestSeller() {
     <div className="best-seller-container">
       <div className="best-seller-title">
         <u>Best Seller</u>
+
       </div>
       <div className='container'>
       <div className="best-seller-section">
@@ -14,8 +15,10 @@ function BestSeller() {
           src={image11} 
           alt="2 Layer Victorian Necklace" 
           className="best-seller-image"
+          
         />
         <div className="best-seller-info">
+          
           <div className="product-name">2 Layer Victorian Necklace</div>
           <div className="product-rating">★★★★★</div><p className='text1'>(20)</p>
           <div className="product-price">
@@ -25,7 +28,6 @@ function BestSeller() {
         </div>
       </div>
 
-
       
       <div className="best-seller-section1">
         <img 
@@ -34,6 +36,7 @@ function BestSeller() {
           className="best-seller-image"
         />
         <div className="best-seller-info">
+
           <div className="product-name">2 Layer Victorian Necklace</div>
           <div className="product-rating">★★★★★</div><p className='text1'>(20)</p>
           <div className="product-price">
@@ -51,6 +54,7 @@ function BestSeller() {
           className="best-seller-image"
         />
         <div className="best-seller-info">
+
           <div className="product-name">2 Layer Victorian Necklace</div>
           <div className="product-rating">★★★★★</div><p className='text1'>(20)</p>
           <div className="product-price">
@@ -67,6 +71,7 @@ function BestSeller() {
           className="best-seller-image"
         />
         <div className="best-seller-info">
+
           <div className="product-name">2 Layer Victorian Necklace</div>
           <div className="product-rating">★★★★★</div><p className='text1'>(20)</p>
           <div className="product-price">
@@ -83,6 +88,7 @@ function BestSeller() {
           className="best-seller-image"
         />
         <div className="best-seller-info">
+
           <div className="product-name">2 Layer Victorian Necklace</div>
           <div className="product-rating">★★★★★</div><p className='text1'>(20)</p>
           <div className="product-price">
@@ -115,6 +121,7 @@ function BestSeller() {
           className="best-seller-image"
         />
         <div className="best-seller-info">
+
           <div className="product-name">2 Layer Victorian Necklace</div>
           <div className="product-rating">★★★★★</div><p className='text1'>(20)</p>
           <div className="product-price">
@@ -131,6 +138,7 @@ function BestSeller() {
           className="best-seller-image"
         />
         <div className="best-seller-info">
+
           <div className="product-name">2 Layer Victorian Necklace</div>
           <div className="product-rating">★★★★★</div><p className='text1'>(20)</p>
           <div className="product-price">
