@@ -1,0 +1,86 @@
+.category-container {
+  width: 360px;
+  height: 372px;
+  background-color: #F8F9FA;
+  position: relative;
+  top: 265px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.category-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  position: relative;
+  top: 27px;
+  margin-bottom: -14px;
+}
+
+.category-item {
+  text-align: center;
+  width: 100px;
+}
+
+.category-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  background-color: #F8F9FA;
+}
+.category-image:hover{
+  border: 2px solid grey;
+}
+
+.category-label {
+  margin-top: 10px;
+  font-size: 12px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  position: relative;
+  top: -14px;
+}
+
+.circle-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  position: absolute;
+  left: 322px;
+  top: 156px;
+}
+
+.circle {
+  background-color: #F5F5DC;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  position: relative;
+}
+.circle:hover{
+  background-color: grey;
+  border: 2px solid black;
+}
+
+.circle-image {
+  width: 15.58px;
+  height: 15px;
+  position: absolute;
+  left: 7px;
+  top: 7px;
+}
+
+.whats {
+  position: relative;
+  left: 160px;
+  top: -30px;
+}
+.whats:hover{
+  transform: scale(1.3);
+}

@@ -1,0 +1,77 @@
+/* CustomerTestimonials.css */
+.customer-testimonials-container {
+    position: absolute;
+    top: 5120px;
+    left: 15px;
+    width: 330px;
+    height: 310px;
+    
+    background-color: #F5F5DC;
+  }
+  
+  .testimonials-heading {
+    font-size: 25px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    position: absolute;
+    top: -70px; /* 5161px - 5217px = -56px */
+    left: 27px;
+  }
+  
+  .reviews-container {
+    display: flex;
+    flex-direction: column;
+    height: 288px;
+    width: 302px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    position: relative;
+    left: 14px;
+    top: 11px;
+    scrollbar-width: thin;
+    scrollbar-color: #ccc #f1f1f1;
+  }
+  
+  .reviews-container::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  .reviews-container::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  .reviews-container::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 10px;
+  }
+  
+  .review-box {
+    width: auto;
+    height: 72px;
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .reviewer-name {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .review-rating {
+    font-size: 25px;
+    color: #FFD700; /* Gold star color */
+    position: relative;
+    top: -30px;
+    left: 90px;
+  }
+  
+  .review-text {
+    font-size: 8px;
+    margin-top: 0px;
+    position: relative;
+    top: -30px;
+    
+  }
+  

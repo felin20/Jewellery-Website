@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+
+
+.best-seller-container {
+  position: absolute;
+  top: 806px; /* Adjust this value based on where you want "Best Seller" text */
+  left: 96px;
+  width: 155px;
+  height: 900px;
+  text-align: center;
+}
+.best-seller {
+  position: absolute;
+  top: 806px;
+  left: 96px;
+  font-size: 30px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #000;
+}
+
+.best-seller-title {
+  font-size: 30px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #000;
+  margin-bottom: -10px;
+}
+
+.best-seller-section {
+  position: relative;
+  top: 99px; /* Adjust this value based on where you want the image and product details */
+  right: 0px;
+}
+.best-seller-image {
+  width: 156px;
+  height: 300px;
+  
+  position: relative;
+  top: -45px;
+  right: 76px;
+}
+
+.best-seller-info {
+  width: 145px;
+  height: 61px;
+  background-color: white;
+  border-radius: 0 0 20px 0;
+  border: 1px solid #EFEFEF;
+  padding: 5px;
+  position: relative;
+  top: -49px;
+  right: 76px;
+}
+
+.product-name {
+  font-family: 'Inter', sans-serif;
+  font-size: 11px;
+  font-weight: 100;
+  position: relative;
+  right: 7px;
+  top: 3px;
+}
+
+.product-rating {
+  font-family: 'Inter', sans-serif;
+  
+  font-size: 20px;
+  font-weight: 1000;
+  color: #FFD700; /* Star color */
+  position: relative;
+  right: 33px;
+  top: 2px;
+}
+.text1{
+  position: relative;
+  top: -27px;
+  left: 23px;
+  font-size: 12px;
+  font-family: 'Inter',sans-serif;
+  font-weight: 100;
+}
+.product-price {
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  position: relative;
+  top: -35px;
+  right: 20px;
+}
+
+.current-price {
+  color: black;
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+.original-price {
+  text-decoration: line-through;
+  color: #A9A9A9;
+  font-size: 11px;
+}
+.best-seller-section1{
+  position: relative;
+  top: -278px;
+  left:164px;
+}
+
+.best-seller-section2{
+  position: relative;
+  top: -261px;
+  left:164px;
+}
+.best-seller-section3{
+  position: relative;
+  top: -637px;
+  
+}
+.best-seller-section4{
+  position: relative;
+  top: -621px;
+  left:164px;
+  
+}
+.best-seller-section5{
+  position: relative;
+  top: -997px;
+  
+}
+.best-seller-section6{
+  position: relative;
+  top: -981px;
+  left:164px;
+}
+.best-seller-section7{
+  position: relative;
+  top: -1357px;
+  
+}
+
+.container1{
+  width: 120px;
+  height: 45px;
+  border-radius: 5px;
+  background-color: black;
+  position: relative;
+  top: -1379px;
+  right: -24px;
+}
+.text2{
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  top: 7px;
+}
+.best-seller-section:hover{
+  transform: scale(1.1);}
+.best-seller-section1:hover{
+  transform: scale(1.1);
+}.best-seller-section2:hover{
+  transform: scale(1.1);
+}
+.best-seller-section3:hover{
+  transform: scale(1.1);
+}
+.best-seller-section4:hover{
+  transform: scale(1.1);
+}
+.best-seller-section1:hover{
+  transform: scale(1.1);
+}
+.best-seller-section5:hover{
+  transform: scale(1.1);
+}
+.best-seller-section1:hover{
+  transform: scale(1.1);
+}
+.best-seller-section6:hover{
+  transform: scale(1.1);
+}
+.best-seller-section7:hover{
+  transform: scale(1.1);
+}
+.container1:hover{
+transform: scale(1.2);
+}

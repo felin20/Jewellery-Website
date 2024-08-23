@@ -1,0 +1,50 @@
+.header {
+  width: 360px;
+  height: 109px;
+  background-color: white;
+  position: relative;
+}
+
+ .image2-button, .image3-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.image2-button, .image3-button{
+  width: 20px;
+  height: 21.25px;
+}
+.icon1 {
+  width: 25px;
+  height: 21.25px;
+}
+
+.image1 {
+  position: absolute;
+  width: 90px;
+  height: 45.69px;
+  top: 36.12px;
+  left: 124px;
+}
+
+.icon-button {
+  width: 25px;
+  height: 21.25px;
+  top: 46.75px;
+  left: 26px;
+}
+
+
+
+
+
+.image2, .image3 {
+  width: 20px;
+  height: 21.25px;
+  
+}

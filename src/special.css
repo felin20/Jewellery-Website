@@ -1,0 +1,158 @@
+.special-offer-container {
+    text-align: center;
+    position: relative;
+    top: 2100px;
+  }
+  
+  .special-offer-title {
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 69px;
+    
+  }
+  .container2{
+    position: relative;
+    top: 10px;
+  }
+  
+  .special-offer-card {
+    width: 130px;
+    
+    overflow: hidden;
+    position: relative;
+    top: -42px;
+    left: 34px;
+  }
+  
+  .offer-image {
+    width: 132px;
+    height: 120px;
+    
+    position: relative;
+    top: 2px;
+  }
+  
+  .offer-details {
+    padding: 0px;
+    border: 1px solid #EFEFEF;
+    border-radius: 0 0 10px 10px;
+    position: relative;
+    top: -4px;
+
+  }
+  
+  .offer-product-name {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    font-weight: 800;
+    color: #000;
+    margin-bottom: 5px;
+  }
+  
+  .offer-product-price {
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    color: #000;
+    margin-bottom: 10px;
+  }
+  
+  .offer-current-price {
+    color: #FF0000;
+    margin-right: 5px;
+  }
+  
+  .offer-original-price {
+    text-decoration: line-through;
+    color: #A9A9A9;
+  }
+  
+  .offer-add-to-cart {
+    width: 130px;
+    height: 28px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 0 0 10px 10px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    cursor: pointer;
+    position: relative;
+    right: 0px;
+    top: 0px;
+  }
+
+
+  .special-offer-card1{
+    position: relative;
+    top: -239px;
+    left: 79px;
+    
+  }
+
+  .offer-details1,.offer-details3,.offer-details5{
+    width: 129px;
+    position: relative;
+    left: 116px;
+    top: -3px;
+border: 1px solid #EFEFEF;
+border-bottom: none;
+border-radius: 0 0 20px 20px;
+    
+
+  }
+  
+  .special-offer-card2 {
+    width: 130px;
+    
+    overflow: hidden;
+    position: relative;
+    top: -196px;
+    left: 34px;
+  }
+
+  
+  .special-offer-card3{
+    position: relative;
+    top: -393px;
+    left: 79px;
+
+    
+  }
+
+  .special-offer-card4 {
+    width: 130px;
+    
+    overflow: hidden;
+    position: relative;
+    top: -347px;
+    left: 34px;
+  }
+  .special-offer-card5{
+    position: relative;
+    top: -544px;
+    left: 79px;
+
+    
+  }
+  .special-offer-card:hover{
+    transform: scale(1.2);
+  }
+  .special-offer-card1:hover{
+    transform: scale(1.2);
+  }
+  .special-offer-card2:hover{
+    transform: scale(1.2);
+  }
+  .special-offer-card3:hover{
+    transform: scale(1.2);
+  }
+  .special-offer-card4:hover{
+    transform: scale(1.2);
+  }
+  .special-offer-card5:hover{
+    transform: scale(1.2);
+  }

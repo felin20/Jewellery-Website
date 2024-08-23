@@ -1,0 +1,89 @@
+/* src/App.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  top: 0px;
+  background-color: #f0f0f0;
+}
+ .frame-container {
+  width: 360px;
+  height: 6455px;
+  background-color: white;
+  position: absolute;
+  top: 0px;
+  border: 1px solid black;
+} 
+
+/* Header styles */
+.header {
+  width: 360px;
+  height: 109px;
+  background-color: white;
+  position: relative;
+}
+
+.icon1 {
+  position: absolute;
+  width: 25px;
+  height: 21.25px;
+  top: 46.75px;
+  left: 26px;
+}
+
+.image1 {
+  position: absolute;
+  width: 90px;
+  height: 45.69px;
+  top: 36.12px;
+  left: 124px;
+}
+
+.image2, .image3 {
+  position: absolute;
+  width: 20px;
+  height: 21.25px;
+  top: 46.75px;
+}
+
+.image2 {
+  left: 251px;
+}
+
+.image3 {
+  left: 300px;
+}
+
+/* Content styles */
+.content {
+  position: absolute;
+  top: 130px;
+}
+
+.image4 {
+  width: 360px;
+  height: 359px;
+  position: relative;
+  top: -78px;
+}
+
+/* Category styles */
+
+/* Best Seller styles */
+.best-seller {
+  position: absolute;
+  top: 806px;
+  left: 96px;
+  font-size: 30px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: #000;
+}
+/* AD */
+
+/* Container for the AD Tusker Guttapusalu product */
