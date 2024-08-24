@@ -31,9 +31,9 @@ const Footer = () => {
       </div>
       {isUsefulExpanded && (
         <div className="expanded-links">
-          <a href="/link1" className="footer-link-useful">Link 1</a>
-          <a href="/link2" className="footer-link-useful">Link 2</a>
-          <a href="/link3" className="footer-link-useful">Link 3</a>
+          <a href="/link1" className="footer-link-useful">Home</a>
+          <a href="/link2" className="footer-link-useful">Shop</a>
+          <a href="/link3" className="footer-link-useful">Offers</a>
         </div>
       )}
 
@@ -49,9 +49,9 @@ const Footer = () => {
       </div>
       {isInfoExpanded && (
         <div className="expanded-links">
-          <a href="/info1" className="footer-link-info">Info 1</a>
-          <a href="/info2" className="footer-link-info">Info 2</a>
-          <a href="/info3" className="footer-link-info">Info 3</a>
+          <a href="/info1" className="footer-link-info">About Us</a>
+          <a href="/info2" className="footer-link-info">FAQs</a>
+          <a href="/info3" className="footer-link-info">Shipping Information</a>
         </div>
       )}
 
@@ -67,9 +67,9 @@ const Footer = () => {
       </div>
       {isContactExpanded && (
         <div className="expanded-links">
-          <a href="/contact1" className="footer-link-contact">Contact 1</a>
-          <a href="/contact2" className="footer-link-contact">Contact 2</a>
-          <a href="/contact3" className="footer-link-contact">Contact 3</a>
+          <a href="/contact1" className="footer-link-contact">Customer Support</a>
+          <a href="/contact2" className="footer-link-contact">Email Us</a>
+          <a href="/contact3" className="footer-link-contact">Call Us</a>
         </div>
       )}
 <div className='container100'>
