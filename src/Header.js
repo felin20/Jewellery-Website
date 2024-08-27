@@ -1,10 +1,10 @@
 import React from 'react';
 import './Header.css';
 
-import icon1 from './images/Vector.png';
+import icon1 from './images/Vector.svg';
 import image1 from './images/image.png';
-import image2 from './images/Vector1.png';
-import image3 from './images/Vector2.png';
+import image2 from './images/Vector1.svg';
+import image3 from './images/Vector2.svg';
 
 function Header() {
   return (

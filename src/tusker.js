@@ -1,8 +1,8 @@
 import React from 'react';
 import './tusker.css';
 import productImage from './images/ad1.png'; 
-import share from './images/share.png';
-import arrow1 from './images/arrow1.png';
+import share from './images/share.svg';
+import arrow1 from './images/arrow1.svg';
 
 function Tusker() {
   return (

@@ -177,34 +177,7 @@
   position: relative;
   top: 7px;
 }
-.best-seller-section:hover{
-  transform: scale(1.05);}
-.best-seller-section1:hover{
-  transform: scale(1.05);
-}.best-seller-section2:hover{
-  transform: scale(1.05);
-}
-.best-seller-section3:hover{
-  transform: scale(1.05);
-}
-.best-seller-section4:hover{
-  transform: scale(1.05);
-}
-.best-seller-section1:hover{
-  transform: scale(1.05);
-}
-.best-seller-section5:hover{
-  transform: scale(1.05);
-}
-.best-seller-section1:hover{
-  transform: scale(1.05);
-}
-.best-seller-section6:hover{
-  transform: scale(1.05);
-}
-.best-seller-section7:hover{
-  transform: scale(1.05);
-}
+
 .container1:hover{
 transform: scale(1.2);
 }

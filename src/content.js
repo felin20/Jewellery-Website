@@ -3,7 +3,7 @@ import './content.css';
 import image2 from './images/image2.png';
 import shop from './images/shop.png';
 import contentImage from './images/image2.png';
-import arrow3 from './images/arrow3.png';
+import arrow3 from './images/arrow3.svg';
 
 
 function Content() {

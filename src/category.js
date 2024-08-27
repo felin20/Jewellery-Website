@@ -15,7 +15,7 @@ import Nose  from './images/Nose Accesories.png';
 
 
 
-import smallImage from './images/small-image.png';
+import smallImage from './images/small-image.svg';
 import whats from './images/whats.png';
 
 function Category() {
